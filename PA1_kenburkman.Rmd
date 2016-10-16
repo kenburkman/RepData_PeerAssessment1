@@ -90,6 +90,6 @@ Yes, although periods of activity tend to be greater during the day, there are t
 
 1. Weekends tend to have a greater number of steps over a longer period of time.
 
-2. Weekdays have a spike in the morning that is greater than any of the weekend values.  Maybe that's when people are out for a morning run?
+2. Weekdays have a spike in the morning that is greater than any of the weekend values.  Maybe that's when people are out for a morning run? 
 
 3. Weekend activity tapers off later than weekday activity.
