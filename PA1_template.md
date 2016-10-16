@@ -33,6 +33,8 @@ options(scipen=999)
 meanSteps<-mean(totalSteps$Total)
 medianSteps<-median(totalSteps$Total)
 ```
+The mean number of steps is 10766.1886792.  The median number is 10765.
+
 ### What is the average daily activity pattern?
 
 #### Make a time series plot (i.e. type = "l") of the 5-minute interval (x-axis) and the average number of steps taken, averaged across all days (y-axis)
